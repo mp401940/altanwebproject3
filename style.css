@@ -1,0 +1,62 @@
+header{
+    background-color:crimson;
+    height: 1000px;
+    color: white;
+    font-size: 30px;
+    background-image: url("1532338405_subnautica.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 1px;
+    margin-top: -10px;
+    margin: -10px;
+
+    h1{
+        text-align: center;
+        font-size: 80px;
+        color: bisque;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-shadow: black 2px 5px 5px;
+        padding-top: 600px;
+    }
+    h2{
+        text-align: center;
+        font-size: 80px;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-shadow: black 2px 5px 5px;
+    }
+}
+
+main{
+    background-color: white;
+    height: 100%;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.top{
+
+    background-color: white;
+    float: top;
+    width: 45%;
+    height: 100%;
+    text-align: justify;
+    padding-left: -80px;
+}
+
+.bottom{
+    background-color: white;
+    float: bottom;
+    width: 80%;
+    height: 50%;
+}
+
+.container{
+    width: 90%;
+    height: 100%;
+}
